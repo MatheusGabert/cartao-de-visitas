@@ -1,0 +1,40 @@
+
+body{
+        background-color: beige;
+    }
+
+#textul{
+        color: brown;
+        }
+#textp{
+    color: brown;
+}
+
+.text{
+     font-family: arial;
+     font-size: 15px;
+     color: brown;
+      }
+.center{
+
+    text-align: center;
+
+       }
+th {
+    text-align: center;
+    color: brown    ;
+    background-color: #ffffff;
+   }
+td{
+    text-align: right;
+  }
+tr:nth-child(even){
+    background-color: white;
+                   }
+tr:nth-child(odd){
+    background-color: lightgray;
+}
+a:hover{
+    background-color: purple;
+    color: black;
+}
